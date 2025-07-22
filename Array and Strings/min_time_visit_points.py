@@ -19,6 +19,7 @@ class Solution(object):
             total += min(dx,dy) + abs(dx - dy)
             
             
+            
         return total
 
                 
